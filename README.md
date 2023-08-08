@@ -6,7 +6,7 @@ This is a fun project that recreates the classic Chrome Dino game with an added 
 
 ## How to Play
 1. Clone or download the repository.
-2. Open the `index.html` file in your acode app or any HTML editor and run the file.
+2. Install the application or Open the `index.html` file in your acode app or any HTML editor and run the file.
 3. Press the spacebar to start the game. The Chrome Dino will start running.
 4. The bot will automatically play the game alongside you, jumping over obstacles and earning points.
 
