@@ -18,8 +18,8 @@ This is a fun project that recreates the classic Chrome Dino game with an added 
 Feel free to contribute to the project by making improvements or adding new features. If you encounter any issues, please report them in the Issues section.
 
 ## Screenshots
-![Screenshot 1](1.jpeg)
-![Screenshot 2](2.jpeg)
+![Screenshot 1](1.jpg)
+![Screenshot 2](2.jpg)
 
 ---
 ![Facebook Icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzASUheShjcHptv4vgE7-JcAy_ADEM0mKRuMl4yWd3LYrxbP0WL5AH-_wv&s=10)
@@ -31,4 +31,3 @@ Contact me on Facebook: [Abid Hasan Sojib](https://www.facebook.com/abidhasansoj
 
 Enjoy the game! 😄🦕
 
-Note: This project is optimized to run in the Acode app, which provides a convenient development environment on Android devices.
