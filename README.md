@@ -4,7 +4,7 @@
 
 This is a fun project that recreates the classic Chrome Dino game with an added twist of a bot playing alongside you. The game is built using HTML, CSS, and JavaScript.
 ## Download
-Download this here [Google Drive link](https://drive.google.com/file/d/1gCUBohifTPljldYW3fBoNOFZYmmcKO_m/view?usp=drivesdk)
+Download this here [Google Drive link](https://github.com/abidhasansojib/Chrome-Dino/releases/tag/v1.0)
 ## How to Play
 #### Skip this if you have downloaded the apk file.
 1. Clone or download the repository.
